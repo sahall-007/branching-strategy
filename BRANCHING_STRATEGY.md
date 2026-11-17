@@ -162,7 +162,6 @@ Developers should also delete the corresponding local branch to keep their local
 ## 9. General Guidelines
 
 - Always create supporting branches from the latest `main`.
-- Keep branches focused on a single task whenever practical.
 - Avoid committing unfinished or unrelated changes.
 - Pull the latest changes regularly to reduce merge conflicts.
 - Never commit secrets, credentials, or environment files containing sensitive information.
